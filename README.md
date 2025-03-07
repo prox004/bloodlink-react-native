@@ -8,7 +8,7 @@ BloodLink is a React Native app built with Expo, designed to simplify blood dona
 🌐 PWA Support – Prompts users to install the app for quick access.
 📱 Mobile-First Design – Optimized for smartphones and touch interactions.
 
-###🔧 Installation & Setup
+### 🔧 Installation & Setup
 
 ### 1️⃣ Clone the Repository  
 ```sh
@@ -30,10 +30,10 @@ npx expo start
 ```
 Scan the QR code in Expo Go (Android) or use the simulator/emulator for iOS.
 
-###🤝 Contributing
+### 🤝 Contributing
 Want to contribute? Feel free to fork the repo and submit a PR!
 
-###📜 License
+### 📜 License
 This project is licensed under the MIT License.
 
 Made with ❤️ by Protyoy Bhandary
