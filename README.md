@@ -1,7 +1,7 @@
-🩸 BloodLink – React Native Blood Donation App
+### 🩸 BloodLink – React Native Blood Donation App
 BloodLink is a React Native app built with Expo, designed to simplify blood donation by connecting donors with recipients efficiently. It features a passwordless authentication system using Firebase, ensuring a seamless user experience.
 
-🚀 Features
+### 🚀 Features
 📲 Onboarding Carousel – A smooth, swipeable introduction to the app.
 🔑 Firebase Authentication – Secure login using phone numbers (passwordless).
 🏠 User Dashboard – Personalized interface for donors and recipients.
