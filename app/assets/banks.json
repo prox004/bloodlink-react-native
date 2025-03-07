@@ -1,0 +1,191 @@
+{
+    "banks": [
+      {
+        "id": "1",
+        "name": "City Blood Bank",
+        "address": "123 Main Street",
+        "state": "Karnataka",
+        "district": "Bangalore Urban",
+        "city": "Bangalore",
+        "pincode": "560001",
+        "phoneNumber": "080-12345678",
+        "operatingHours": "9:00 AM - 6:00 PM",
+        "bloodInventory": {
+          "A+": 50,
+          "A-": 20,
+          "B+": 45,
+          "B-": 15,
+          "AB+": 25,
+          "AB-": 10,
+          "O+": 60,
+          "O-": 30
+        }
+      },
+      {
+        "id": "2",
+        "name": "Life Saver Blood Bank",
+        "address": "45 Park Lane",
+        "state": "Maharashtra",
+        "district": "Mumbai Suburban",
+        "city": "Mumbai",
+        "pincode": "400001",
+        "phoneNumber": "022-98765432",
+        "operatingHours": "8:00 AM - 8:00 PM",
+        "bloodInventory": {
+          "A+": 40,
+          "B+": 35,
+          "O+": 50
+        }
+      },
+      {
+        "id": "3",
+        "name": "Red Cross Blood Bank",
+        "address": "78 Gandhi Road",
+        "state": "Delhi",
+        "district": "Central Delhi",
+        "city": "New Delhi",
+        "pincode": "110001",
+        "phoneNumber": "011-87654321",
+        "operatingHours": "10:00 AM - 5:00 PM",
+        "bloodInventory": {
+          "A-": 15,
+          "B+": 25,
+          "AB+": 20,
+          "O-": 10
+        }
+      },
+      {
+        "id": "4",
+        "name": "Unity Blood Bank",
+        "address": "67 MG Road",
+        "state": "Tamil Nadu",
+        "district": "Chennai",
+        "city": "Chennai",
+        "pincode": "600002",
+        "phoneNumber": "044-12349876",
+        "operatingHours": "9:00 AM - 7:00 PM",
+        "bloodInventory": {
+          "A+": 30,
+          "B-": 12,
+          "AB+": 18,
+          "O+": 40
+        }
+      },
+      {
+        "id": "5",
+        "name": "Helping Hands Blood Bank",
+        "address": "29 Patel Street",
+        "state": "West Bengal",
+        "district": "Kolkata",
+        "city": "Kolkata",
+        "pincode": "700001",
+        "phoneNumber": "033-65478912",
+        "operatingHours": "8:00 AM - 6:00 PM",
+        "bloodInventory": {
+          "A+": 20,
+          "A-": 10,
+          "B+": 15,
+          "O-": 25
+        }
+      },
+      {
+        "id": "6",
+        "name": "BloodCare Bank",
+        "address": "14 Nehru Avenue",
+        "state": "Punjab",
+        "district": "Ludhiana",
+        "city": "Ludhiana",
+        "pincode": "141001",
+        "phoneNumber": "0161-78965432",
+        "operatingHours": "9:00 AM - 5:00 PM",
+        "bloodInventory": {
+          "AB+": 30,
+          "AB-": 12,
+          "O+": 40
+        }
+      },
+      {
+        "id": "7",
+        "name": "Hope Blood Bank",
+        "address": "21 Main Circle",
+        "state": "Rajasthan",
+        "district": "Jaipur",
+        "city": "Jaipur",
+        "pincode": "302001",
+        "phoneNumber": "0141-56789432",
+        "operatingHours": "9:00 AM - 6:00 PM",
+        "bloodInventory": {
+          "A+": 30,
+          "B+": 25,
+          "O+": 20,
+          "O-": 8
+        }
+      },
+      {
+        "id": "8",
+        "name": "Sunshine Blood Bank",
+        "address": "58 Beach Road",
+        "state": "Kerala",
+        "district": "Thiruvananthapuram",
+        "city": "Thiruvananthapuram",
+        "pincode": "695001",
+        "phoneNumber": "0471-87654321",
+        "operatingHours": "8:00 AM - 4:00 PM",
+        "bloodInventory": {
+          "A+": 20,
+          "B-": 10,
+          "O+": 35
+        }
+      },
+      {
+        "id": "9",
+        "name": "Cure Blood Bank",
+        "address": "12 Science Avenue",
+        "state": "Uttar Pradesh",
+        "district": "Lucknow",
+        "city": "Lucknow",
+        "pincode": "226001",
+        "phoneNumber": "0522-45678912",
+        "operatingHours": "9:30 AM - 6:30 PM",
+        "bloodInventory": {
+          "B+": 40,
+          "AB+": 20,
+          "O+": 50
+        }
+      },
+      {
+        "id": "10",
+        "name": "Noble Blood Bank",
+        "address": "39 Civil Lines",
+        "state": "Madhya Pradesh",
+        "district": "Indore",
+        "city": "Indore",
+        "pincode": "452001",
+        "phoneNumber": "0731-12346789",
+        "operatingHours": "10:00 AM - 6:00 PM",
+        "bloodInventory": {
+          "A+": 30,
+          "O+": 20,
+          "AB+": 15
+        }
+      },
+      {
+        "id": "11",
+        "name": "Vital Blood Bank",
+        "address": "88 Peace Lane",
+        "state": "Assam",
+        "district": "Kamrup",
+        "city": "Guwahati",
+        "pincode": "781001",
+        "phoneNumber": "0361-23456789",
+        "operatingHours": "9:00 AM - 6:00 PM",
+        "bloodInventory": {
+          "B+": 25,
+          "B-": 15,
+          "AB+": 10,
+          "O+": 30
+        }
+      }
+    ]
+  }
+  

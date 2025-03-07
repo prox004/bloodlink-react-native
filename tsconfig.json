@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "app/Onboarding.tsx", "app/Components/Home/Carousel.js"  ]
 }
